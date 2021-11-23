@@ -41,15 +41,15 @@ nav ul li{
     margin: 0 5px;
 }
 nav ul li a{
-     color:blue;
+     color:white;
 }
 .homepage-anchor {
     
     font-size: 17px;
-    padding: 7px 13px;
+    padding: 7px 15px;
 }
 .homepage-anchor :hover{
-     color:#fff;
+     color:black;
      text-decoration: none;
 }
 
